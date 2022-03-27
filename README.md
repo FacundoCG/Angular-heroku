@@ -1,4 +1,6 @@
 # BInclusiveFront
+Link: https://b-inclusive.herokuapp.com/
+Note: At the moment, the web is only deployed the front-end. I will deploy the back-end next month.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
